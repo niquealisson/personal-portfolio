@@ -13,7 +13,7 @@ const dataProjects = [
         • Animação de Flip em 3D (com CSS puro); <br>
         • Verso do Card com informações sobre o DoWhile 2021; <br>
         • Versão Desktop e Mobile.`, 
-        videoSrc: 'https://streamable.com/e/qceqn0',
+        videoSrc: 'https://streamable.com/2ogtxj',
         linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:6858050562471145472/',
         repository: 'https://github.com/rhuanbello/origin-nlw-heat',
         site: 'https://dowhile2021-rhuanbello.vercel.app/'
